@@ -198,11 +198,10 @@
                 <h2 class="section-title">Hubungi Saya</h2>
 
                 <div class="contact__container bd-grid">
-                    <form action="" class="contact__form">
-                        <input type="text" placeholder="Nama" class="contact__input">
-                        <input type="mail" placeholder="Email" class="contact__input">
-                        <textarea name="" id="" cols="0" rows="10" placeholder="isi pesan" class="contact__input"></textarea>
-                        <input type="button" value="Kirim" class="contact__button button">
+                    <form action="https://formspree.io/f/mzbqagqb" method="POST" class="contact__form">
+                        <input type="email" name="email" placeholder="Email" class="contact__input">
+                        <textarea name="message" id="" cols="0" rows="10" placeholder="isi pesan" class="contact__input"></textarea>
+                        <input type="submit" value="Kirim" class="contact__button button">
                     </form>
                 </div>
             </section>
