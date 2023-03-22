@@ -39,7 +39,7 @@
             <!--===== HOME =====-->
             <section class="home bd-grid" id="home">
                 <div class="home__data">
-                    <h1 class="home__title">Hello,<br>Saya <span class="home__title-color">James</span><br> Mahasiswa PTI</h1>
+                    <h1 class="home__title">Hello,<br>Saya <span class="home__title-color">James</span><br> Mahasiswa PTI (Pendidikan Teknik Informatika)</h1>
 
                     <a href="#contact" class="button">Hubungi Saya</a>
                 </div>
